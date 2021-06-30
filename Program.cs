@@ -26,7 +26,7 @@ namespace DominandoEFCore
             db1.Database.EnsureCreated();
             db2.Database.EnsureCreated();
 
-            var databaseCreator = db2.GetService<RelationalDatabaseCreator>();
+            var databaseCreator = db2.GetService<IRelationalDatabaseCreator>();
             databaseCreator.CreateTables();
             
         }
