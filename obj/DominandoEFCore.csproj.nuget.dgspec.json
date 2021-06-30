@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj": {}
+    "D:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj": {}
   },
   "projects": {
-    "d:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj": {
+    "D:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj",
+        "projectUniqueName": "D:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj",
         "projectName": "DominandoEFCore",
-        "projectPath": "d:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj",
+        "projectPath": "D:\\Cursos\\DevIO\\Curso\\DominandoEFCore.csproj",
         "packagesPath": "C:\\Users\\jrsou\\.nuget\\packages\\",
-        "outputPath": "d:\\Cursos\\DevIO\\Curso\\obj\\",
+        "outputPath": "D:\\Cursos\\DevIO\\Curso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrsou\\AppData\\Roaming\\NuGet\\NuGet.Config"
