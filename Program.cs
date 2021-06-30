@@ -1,5 +1,4 @@
 ﻿using Curso.Data;
-//using Curso.DataCidade;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage;
 
@@ -21,7 +20,7 @@ namespace DominandoEFCore
         static void GapDoEnsureCreated()
         {
             using var db1 = new ApplicationContext();
-            using var db2 = new ApplicationContextCliente();
+            using var db2 = new ApplicationContextCidade();
             
             
             db1.Database.EnsureCreated();
